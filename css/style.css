@@ -1,0 +1,44 @@
+*{
+	margin: 10px;
+}
+body{
+	background: url(../images/p17d98f5st15qd1tsv1m9c1sbu11uo0_64674.jpg)no-repeat;
+	background-size: cover;
+}
+.containar{
+	width: 1100px;
+	margin:0px;
+}
+.left-side{
+	background: url(../images/How-Technology-Impacts-Work-Culture.png)no-repeat;
+	height: 100px;
+}
+.right-side{
+	background: url(../images/technology-591103f20ff18.jpg)no-repeat;
+	height: 1100px;
+	width: 20%;
+	float: left;
+}
+.f1{
+	background: url(../images/How-Technology-Impacts-Work-Culture.png)no-repeat;
+	height: 200px;
+}
+.f2{
+	background: url(../images/technology-591103f20ff18.jpg)no-repeat;
+	height: 1100px; 
+	width: 20%;
+	float: right;
+}
+.f3{
+	background: url(../images/How-Technology-Impacts-Work-Culture.png)no-repeat;
+	height: 500px;
+}
+.f4{
+		background: url(../images/How-Technology-Impacts-Work-Culture.png)no-repeat;
+	height: 400px;
+}
+.f5{
+	background: url(../images/technology_tablet_1920x960_0.jpg)no-repeat;
+	height: 300px;
+	float: below;
+}
